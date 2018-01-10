@@ -1,0 +1,22 @@
+{
+  "name": "constructor-hangman",
+  "version": "1.0.0",
+  "description": "Hangman game",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahav2/constructor-hangman.git"
+  },
+  "keywords": [
+    "Heroes"
+  ],
+  "author": "My awesome self!",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahav2/constructor-hangman/issues"
+  },
+  "homepage": "https://github.com/sarahav2/constructor-hangman#readme"
+}
