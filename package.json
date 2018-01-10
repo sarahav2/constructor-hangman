@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/sarahav2/constructor-hangman/issues"
   },
-  "homepage": "https://github.com/sarahav2/constructor-hangman#readme"
+  "homepage": "https://github.com/sarahav2/constructor-hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0",
+    "is-letter": "^1.1.1"
+  }
 }
