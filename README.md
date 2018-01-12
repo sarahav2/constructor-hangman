@@ -20,6 +20,6 @@ Additional feature: display a hangman graphic for each wrong letter guessed.
 *Terminal in VSC
 
 #Gif
-![GIF](/images/mainjs1)
-![GIF](/images/mainjs2)
-![GIF](/images/mainjs3)
+![GIF](/images/mainjs1.gif)
+![GIF](/images/mainjs2.gif)
+![GIF](/images/mainjs3.gif)
