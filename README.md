@@ -18,3 +18,8 @@ is-letter NPM Package - https://www.npmjs.com/package/is-letter
 Built With
 VS Code - Text Editor
 Terminal in VSC
+
+Gif
+(/images/mainjs1)
+(/images/mainjs2)
+(/images/mainjs3)
